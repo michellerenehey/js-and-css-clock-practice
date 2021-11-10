@@ -45,9 +45,6 @@ body {
 }
 
 .hour-hand {
-    background: green;
-    width: 30%;
-    top: 35%; 
-    right: 75%; 
+    width: 40%;
+    left: 10%
 }
-
