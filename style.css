@@ -44,7 +44,10 @@ body {
     transition-timing-function: cubic-bezier(0, 3.88, 0.58, 1);
 }
 
-.minute-hand {
-    
+.hour-hand {
+    background: green;
+    width: 30%;
+    top: 35%; 
+    right: 75%; 
 }
 
